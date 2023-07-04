@@ -1,0 +1,98 @@
+
+#fondo {
+    background-image: url("../img/nubes.png");
+    background-size: cover;
+    background-position:1px;
+    width: 1500px;
+    height: 600px;
+    padding: 100px;
+    
+     
+
+}
+
+.card {
+    top:20px;
+    right: 1px;
+
+}
+
+
+.container-fluid {
+    height: 250px;
+    font-size: 35px;
+    background-image: url("../img/ciudad.gif");
+}
+
+.container {
+ color: black;
+ 
+ 
+}
+ 
+
+.letra {
+    color: rgb(0, 0, 0);
+    font-size: 150%;
+    text-align:center;
+    
+
+
+}
+
+
+
+.estudio {
+    text-align: center;
+    font-size: 200%;
+    padding:30px;
+    background-color: #759dad;
+    
+}
+
+.experiencia-laboral {
+    padding: 30px;
+    text-align: center;
+    font-size: 200%;
+    bottom: 200px;
+    background-color: #759dad
+    
+}
+
+.carousel-item {
+    height: 1000px;
+
+}
+
+.carousel-inner {
+    height: 800px;
+    padding: 300px;
+    bottom: 200px;
+}
+
+.portafolio {
+    padding: 30px;
+    text-align: center;
+    font-size: 200%;
+    background-color: #759dad;
+    
+    
+
+}
+
+.card-img-top {
+   height: 350px;
+   padding: 10px;
+   
+    
+}
+
+
+
+.mb-2 {
+ background-color:#759dad;
+
+}
+
+
+

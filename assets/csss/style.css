@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+  
+  h1 {
+   font-family: 'Raleway', sans-serif;
+    font-size: 3.5em;
+    letter-spacing: 5px;
+    color: white;
+    opacity: 1;
+  }
+  
+  body {
+    background-color: black;
+  }
+  
+  .title {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    height: 73px;
+  }
+  
+  .header {
+    background-image: url(../img/bg-header.jpg);
+    background-size: cover;
+    height: 90vh;
+    
+  }
+  
+  main {
+    height: 348px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    gap: 100px;
+  }
+  
+  .main-text {
+    width: 475px;
+    height: 197px;
+  
+    text-align: left;
+    font: normal normal 300 16px/19px Raleway;
+    color: #ffffff;
+    opacity: 1;
+  }
+  
+  .main-img {
+    width: 399px;
+    height: 237px;
+  }
+  
+  .main-img img {
+    width: 100%;
+  }
+  
+  .container-info {
+    background-color: #1e1a13;
+    width: 100%;
+    height: 348px;
+  }
+  
+  .title-info {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .container-info h3 {
+    font: normal normal 300 25px/30px Raleway;
+    letter-spacing: 0px;
+    color: #ffffff;
+  }
+  
+  .icon {
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .icon h3 {
+    margin-top: 20px;
+  }
+  
+  .icon article {
+    width: 25%;
+    text-align: center;
+  }
+  
+  i {
+    color: #ffffff;
+    display: flex;
+    align-self: center;
+  }
+  
+
+  
+  .container {
+    height: 348px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .container img {
+    width: 316px;
+    height: 202px;
+  }
+  
+  
+  footer {
+    width: 100%;
+    height: 102px;
+    background-color: #1e1a13;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .end {
+    width: 682px;
+    height: 24px;
+    color: #ffffff;
+    text-align: left;
+    font: normal normal 300 20px/24px Raleway;
+    letter-spacing: 0px;
+    color: #ffffff;
+    text-decoration: none;
+    opacity: 1;
+  }
+  
